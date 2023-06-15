@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, here is **Wenhai Lai (赖文海)**. I'm now a PhD student at The Chinese University of HongKong, Shenzhen, under the supervision of [Prof. Kaiming Shen](https://kaimingshen.github.io/index.html). My research interests includes intelligent reflecting surface, machine learning algorithms and their application in wireless communication. I would be glad if you want to discuss above topics with me.
+Hello, here is **Wenhai Lai (赖文海)**. I'm now a PhD student at The Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Kaiming Shen](https://kaimingshen.github.io/index.html). My research interests include intelligent reflecting surface, machine learning algorithms and their application in wireless communication. I would be happy to discuss the above topics with you.
 
 Education
 ======

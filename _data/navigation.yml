@@ -2,6 +2,9 @@
 main:   
   - title: "Publications"
     url: /publications/
-        
+  
   - title: "Teaching Assistant"
     url: /Teaching Assistant/
+
+  - title: "Posts"
+    url: /year-archive/

@@ -14,4 +14,4 @@ Hello, here is **Wenhai Lai (赖文海)**. I'm now a PhD student at The Chinese 
 * Ph.D. Student in Computer Science and Information Engineering, The Chinese University of Hong Kong, Shenzhen, Aug 2021-Now
 
 >## News
-* Our paper "Blind Beamforming for Multiple Intelligent Reflecting Surfaces" is accepted by ICC 2023 (Jan. 2023).
+* Our paper "Blind Beamforming for Multiple Intelligent Reflecting Surfaces" is accepted by ICC 2023 (Jan 2023).

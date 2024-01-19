@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 >## Recent Term: 2023-2024 Spring (23-24 Term 2)
-* Comming Soon.
+* CSC3050 Computer Architecture.
+  * Leading TA
+* CSC1002 Computational Laboratory
+* Office Hour: 16:00-17:00 Friday, at Letian Building Room 101
 
 
 > ## Previous

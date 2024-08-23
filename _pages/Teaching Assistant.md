@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 >## Recent Term: 2024-2025 Summer (24-25 Term 1)
-* Comming Soon.
+* CSC3050 Computer Architecture (Leading TA)
 
 
 > ## Previous

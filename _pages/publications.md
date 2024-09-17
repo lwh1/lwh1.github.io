@@ -7,9 +7,9 @@ author_profile: true
 
 > ## Journal Paper
 * **Wenhai Lai**, Zheyu Wu, Yi Feng, Kaiming Shen, and Ya-Feng Liu, "[An Efficient Convex-Hull Relaxation Based Algorithm for Multi-User Discrete Passive Beamforming](/files/Lai_SPL_2024.pdf)", IEEE Signal Processing Letters, 2024.
-* Fan Xu, Jiawei Yao, **Wenhai Lai**, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "[Blind Beamforming for Coverage Enhancement with Intelligent Reflecting Surface](/files/Fan_TWC_2024.pdf)", IEEE Transaction on Wireless Communication, 2024.
+* Fan Xu, Jiawei Yao, **Wenhai Lai**, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "[Blind Beamforming for Coverage Enhancement with Intelligent Reflecting Surface](/files/Fan_TWC_2024.pdf)", IEEE Transactions on Wireless Communication, 2024.
 * **Wenhai Lai**, Wenyu Wang, Fan Xu, Xin Li, Shaobo Niu, and Kaiming Shen, "[Blind Beamforming for Intelligent Reflecting Surface in Fading Channels without CSI](/files/Lai_arxiv_2023.pdf)", preprint, May 2023.
-* Fan Xu, Jiawei Yao, **Wenhai Lai**, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "[Coordinating Multiple Intelligent Reflecting Surfaces without Channel Information](/files/Fan_TSP_2023.pdf)", IEEE Transaction on Signal Processing, Nov 2023.
+* Fan Xu, Jiawei Yao, **Wenhai Lai**, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "[Coordinating Multiple Intelligent Reflecting Surfaces without Channel Information](/files/Fan_TSP_2023.pdf)", IEEE Transactions on Signal Processing, Nov 2023.
 * Yakun Huang, Xiuquan Qiao, **Wenhai Lai**, Schahram Dustdar, Jianwei Zhang, and Jiulin Li. "[Enabling DNN Acceleration With Data and Model Parallelization Over Ubiquitous End Devices](https://ieeexplore.ieee.org/abstract/document/9538819)", IEEE Internet of Things Journal, Aug 2022.
 
 > ## Conference Paper

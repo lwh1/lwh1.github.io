@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 > ## Journal Paper
+* Fan Xu, **Wenhai Lai**, and Kaiming Shen, "[Intelligent Surface Assisted Radar Stealth Against Unauthorized ISAC,](/files/Fan_WCL_2025.pdf)" IEEE Wireless Communication Letters, Jan. 2025.
 * **Wenhai Lai**, Wenyu Wang, Fan Xu, Xin Li, Shaobo Niu, and Kaiming Shen, "[Adaptive Blind Beamforming for Intelligent Surface,](/files/Lai_TMC_2024.pdf)" IEEE Transactions on Mobile Computing, Oct. 2024.
 * **Wenhai Lai**, Zheyu Wu, Yi Feng, Kaiming Shen, and Ya-Feng Liu, "[An Efficient Convex-Hull Relaxation Based Algorithm for Multi-User Discrete Passive Beamforming,](/files/Lai_SPL_2024.pdf)" IEEE Signal Processing Letters, 2024.
 * Fan Xu, Jiawei Yao, **Wenhai Lai**, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "[Blind Beamforming for Coverage Enhancement with Intelligent Reflecting Surface,](/files/Fan_TWC_2024.pdf)" IEEE Transactions on Wireless Communication, 2024.

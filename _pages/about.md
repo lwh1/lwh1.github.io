@@ -16,6 +16,6 @@ Hello, here is **Wenhai Lai (赖文海)**. I'm now a PhD student at The Chinese 
 >## News
 * Our paper "[Blind Passive Beamforming for MIMO System](/files/Lai_WCL_2025.pdf)" is accepted by IEEE Wireless Communications Letters.
 * Our paper "Two Birds One Stone: Blind Beamforming for Integrated Communications and Localization" is accepted by IEEE SPAWC 2025.
-* Our paper "[Intelligent Surface Assisted Radar Stealth Against Unauthorized ISAC](/files/Fan_WCL_2025.pdf)" is accepted by IEEE Wireless Communication Letters.
+* Our paper "[Intelligent Surface Assisted Radar Stealth Against Unauthorized ISAC](/files/Fan_WCL_2025.pdf)" is accepted by IEEE Wireless Communications Letters.
 * Our paper "[Adaptive Blind Beamforming for Intelligent Surface](/files/Lai_TMC_2024.pdf)" is accepted by IEEE Transactions on Mobile Computing.
 * Our paper "[An Efficient Convex-Hull Relaxation Based Algorithm for Multi-User Discrete Passive Beamforming](/files/Lai_SPL_2024.pdf)" is accepted by IEEE Signal Processing Letters.

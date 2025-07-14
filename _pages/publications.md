@@ -22,6 +22,9 @@ author_profile: true
 * Wenyu Wang, **Wenhai Lai**, Shuyi Ren, Liyao Xiang, Xin Li, Shaobo Niu, and Kaiming Shen, "[Adaptive Beamforming for Non-Line-of-Sight IRS-Assisted Communications without CSI,](/files/Wang_PIMRC_2023.pdf)" IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Sep 2023.
 * Jiawei Yao, Fan Xu, **Wenhai Lai**, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "[Blind Beamforming for Multiple Intelligent Reflecting Surfaces,](/files/Yao_ICC_2023.pdf)" in IEEE International Conference on Communications (ICC), May 2023.
 
+> ## Preprint
+* **Wenhai Lai**, Kaiming Shen, and Rui Zhang, "[FollowSpot: Enhancing Wireless Communications via Movable Ceiling-Mounted Metasurfaces,](https://arxiv.org/pdf/2507.03918)" 2025.
+
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

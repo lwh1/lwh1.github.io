@@ -22,6 +22,7 @@ author_profile: true
 * Jiawei Yao, Fan Xu, **Wenhai Lai**, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "[Blind Beamforming for Multiple Intelligent Reflecting Surfaces,](/files/Yao_ICC_2023.pdf)" in IEEE International Conference on Communications (ICC), May 2023.
 
 > ## Preprint
+* **Wenhai Lai**, Kaiming Shen, and Zhi-Quan Luo "[Enhancing Communications and Sensing Simultaneously by Zero-Order Optimization of MTS,](https://arxiv.org/pdf/2507.14794)" 2025.
 * **Wenhai Lai**, Kaiming Shen, and Rui Zhang, "[FollowSpot: Enhancing Wireless Communications via Movable Ceiling-Mounted Metasurfaces,](https://arxiv.org/pdf/2507.03918)" 2025.
 
 

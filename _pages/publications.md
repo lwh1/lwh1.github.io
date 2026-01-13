@@ -16,9 +16,10 @@ author_profile: true
 * Yakun Huang, Xiuquan Qiao, **Wenhai Lai**, Schahram Dustdar, Jianwei Zhang, and Jiulin Li. "[Enabling DNN Acceleration With Data and Model Parallelization Over Ubiquitous End Devices,](https://ieeexplore.ieee.org/abstract/document/9538819)" IEEE Internet of Things Journal, Aug 2022.
 
 > ## Conference Paper
-* **Wenhai Lai** and Kaiming Shen, "[Blind Beamforming for Intelligent Reflecting Surface: A Reinforcement Learning Approach,](/files/Lai_ICASSP_2024.pdf)" IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Apr. 2024.
-* Fan Xu, Jiawei Yao, **Wenhai Lai**, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "[Blind Beamforming for Multiple-IRS Assisted Wireless Transmission,](/files/Fan_SPAWC_2023.pdf)" IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sep 2023.
-* Wenyu Wang, **Wenhai Lai**, Shuyi Ren, Liyao Xiang, Xin Li, Shaobo Niu, and Kaiming Shen, "[Adaptive Beamforming for Non-Line-of-Sight IRS-Assisted Communications without CSI,](/files/Wang_PIMRC_2023.pdf)" IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Sep 2023.
+* **Wenhai Lai**, Kaiming Shen, and Zhi-Quan Luo, "[Two Birds One Stone: Blind Beamforming for Integrated Communications and Localization,](/files/Lai_SPAWC2025.pdf)" in IEEE Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC), July 2025.
+* **Wenhai Lai** and Kaiming Shen, "[Blind Beamforming for Intelligent Reflecting Surface: A Reinforcement Learning Approach,](/files/Lai_ICASSP_2024.pdf)" in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Apr. 2024.
+* Fan Xu, Jiawei Yao, **Wenhai Lai**, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "[Blind Beamforming for Multiple-IRS Assisted Wireless Transmission,](/files/Fan_SPAWC_2023.pdf)" in IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sep 2023.
+* Wenyu Wang, **Wenhai Lai**, Shuyi Ren, Liyao Xiang, Xin Li, Shaobo Niu, and Kaiming Shen, "[Adaptive Beamforming for Non-Line-of-Sight IRS-Assisted Communications without CSI,](/files/Wang_PIMRC_2023.pdf)" in IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Sep 2023.
 * Jiawei Yao, Fan Xu, **Wenhai Lai**, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "[Blind Beamforming for Multiple Intelligent Reflecting Surfaces,](/files/Yao_ICC_2023.pdf)" in IEEE International Conference on Communications (ICC), May 2023.
 
 > ## Preprint

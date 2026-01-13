@@ -5,16 +5,18 @@ permalink: /Teaching Assistant/
 author_profile: true
 ---
 
->## Recent Term: 2024-2025 Spring (24-25 Term 2)
-* CSC3050 Computer Architecture (Leading TA)
+>## Recent Term: 2025-2026 Spring (25-26 Term 2)
+* CSC3050 Computer Architecture
 * Office Hour: Friday 16:00-17:00 at Letian Building 101
 
 
 > ## Previous
-* 2021-2022 Summer (21-22 Term 1): EIE3080 Microprocessors and Computer Systems
+* 2021-2022 Fall (21-22 Term 1): EIE3080 Microprocessors and Computer Systems
 * 2021-2022 Spring (21-22 Term 2): CIE6037 Automatic Control Theory and Linear Control Systems
-* 2022-2023 Summer (22-23 Term 1): CSC1001 Introduction to Computer Science: Programming Methodology
+* 2022-2023 Fall (22-23 Term 1): CSC1001 Introduction to Computer Science: Programming Methodology
 * 2022-2023 Spring (22-23 Term 2): CSC3050 Computer Architecture (Leading TA)
-* 2023-2024 Summer (23-24 Term 1): CSC3050 Computer Architecture (Leading TA)
+* 2023-2024 Fall (23-24 Term 1): CSC3050 Computer Architecture (Leading TA)
 * 2023-2024 Spring (23-24 Term 2): CSC3050 Computer Architecture (Leading TA) & CSC1002 Computational Laboratory
-* 2024-2025 Summer (24-25 Term 1): CSC3050 Computer Architecture (Leading TA)
+* 2024-2025 Fall (24-25 Term 1): CSC3050 Computer Architecture (Leading TA)
+* 2024-2025 Spring (24-25 Term 2): CSC3050 Computer Architecture (Leading TA)
+* 2025-2026 Fall (25-26 Term 1): CSC3050 Computer Architecture (Leading TA)

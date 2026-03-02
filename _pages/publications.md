@@ -7,6 +7,7 @@ author_profile: true
 
 > ## Journal Paper
 
+* **Wenhai Lai**, Kaiming Shen, and Rui Zhang, "[FollowSpot: Enhancing Wireless Communications via Movable Ceiling-Mounted Metasurfaces,](/files/Lai_TCOM_2026.pdf)" *IEEE Transactions on Communications*, Feb. 2026.
 * **Wenhai Lai**, Jiawei Yao, and Kaiming Shen, "[Blind Passive Beamforming for MIMO System,](/files/Lai_WCL_2025.pdf)" *IEEE Wireless Communications Letters*, Jun. 2025.
 * **Wenhai Lai**, Wenyu Wang, Fan Xu, Xin Li, Shaobo Niu, and Kaiming Shen, "[Adaptive Blind Beamforming for Intelligent Surface,](/files/Lai_TMC_2024.pdf)" *IEEE Transactions on Mobile Computing*, Oct. 2024.
 * **Wenhai Lai**, Zheyu Wu, Yi Feng, Kaiming Shen, and Ya-Feng Liu, "[An Efficient Convex-Hull Relaxation Based Algorithm for Multi-User Discrete Passive Beamforming,](/files/Lai_SPL_2024.pdf)" *IEEE Signal Processing Letters*, Aug. 2024.
@@ -26,7 +27,7 @@ author_profile: true
 > ## Preprint
 
 * **Wenhai Lai**, Kaiming Shen, and Zhi-Quan Luo "[Enhancing Communications and Sensing Simultaneously by Zero-Order Optimization of MTS,](https://arxiv.org/pdf/2507.14794)" 2025.
-* **Wenhai Lai**, Kaiming Shen, and Rui Zhang, "[FollowSpot: Enhancing Wireless Communications via Movable Ceiling-Mounted Metasurfaces,](https://arxiv.org/pdf/2507.03918)" 2025.
+
 
 
 <!-- {% if author.googlescholar %}

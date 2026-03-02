@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 >## Recent Term: 2025-2026 Spring (25-26 Term 2)
-* CSC3050 Computer Architecture
+* CSC3060
 * Office Hour: Friday 16:00-17:00 at Letian Building 101
 
 

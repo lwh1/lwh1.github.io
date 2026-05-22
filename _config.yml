@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Wenhai Lai"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor, Dalian University of Technology"
+  bio              : "Assistant Professor"
   location         : "Liaoning, China"
-  employer         :
+  employer         : "Dalian University of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r82tZA0AAAAJ&hl=zh-CN"
   email            : "wenhailai@dlut.edu.cn"

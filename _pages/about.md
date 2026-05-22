@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 >## About Me
-Hello, here is **Wenhai Lai (赖文海)**. I'm now a PhD student at The Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Kaiming Shen](https://kaimingshen.github.io/index.html). My research interests include intelligent reflecting surface, machine learning algorithms and their application in wireless communication. I would be happy to discuss the above topics with you.
+Hello, here is **Wenhai Lai (赖文海)**. I'm now an assistant professor at Dalian University of Technology. I received my Ph.D. degree from The Chinese University of Hong Kong, Shenzhen in March 2026 under the supervision of [Prof. Kaiming Shen](https://kaimingshen.github.io/index.html). Prior to that, I obtained my B.Eng. degree from Beijing University of Posts and Telecommunications in 2021. My research interests include intelligent reflecting surface, machine learning algorithms and their application in wireless communication. I would be happy to discuss the above topics with you.
 
 >## Education
-* B.S. in Information Engineering, Beijing University of Posts and Telecommunications (BUPT), Jun 2021
-* Ph.D. Student in Computer Science and Information Engineering, The Chinese University of Hong Kong, Shenzhen, Aug 2021-Now
+* B.S. in Information Engineering, Beijing University of Posts and Telecommunications (BUPT), Jun. 2021
+* Ph.D. Student in Computer Science and Information Engineering, The Chinese University of Hong Kong, Shenzhen, Mar. 2026
 
 >## News
 * Our paper "[FollowSpot: Enhancing Wireless Communications via Movable Ceiling-Mounted Metasurfaces,](/files/Lai_TCOM_2026.pdf)" is accepted by IEEE Transactions on Communications.

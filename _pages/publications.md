@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 > ## Journal Paper
-
+* **Wenhai Lai**, Mingxiao Li, Kaiming Shen, Liyao Xiang, Zhi-Quan Luo, "Eliminating Blind Spots from Wireless Network by Metasurface: A Blind Approach," *IEEE Communications Magazine*, May 2026.
 * **Wenhai Lai**, Kaiming Shen, and Rui Zhang, "[FollowSpot: Enhancing Wireless Communications via Movable Ceiling-Mounted Metasurfaces,](/files/Lai_TCOM_2026.pdf)" *IEEE Transactions on Communications*, Feb. 2026.
 * **Wenhai Lai**, Jiawei Yao, and Kaiming Shen, "[Blind Passive Beamforming for MIMO System,](/files/Lai_WCL_2025.pdf)" *IEEE Wireless Communications Letters*, Jun. 2025.
 * **Wenhai Lai**, Wenyu Wang, Fan Xu, Xin Li, Shaobo Niu, and Kaiming Shen, "[Adaptive Blind Beamforming for Intelligent Surface,](/files/Lai_TMC_2024.pdf)" *IEEE Transactions on Mobile Computing*, Oct. 2024.

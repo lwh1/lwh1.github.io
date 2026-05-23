@@ -14,8 +14,8 @@ Hello, here is **Wenhai Lai (赖文海)**. I'm now an assistant professor at Dal
 * Ph.D. Student in Computer Science and Information Engineering, The Chinese University of Hong Kong, Shenzhen, Mar. 2026
 
 >## News
+* Our paper "Eliminating Blind Spots from Wireless Network by Metasurface: A Blind Approach" is accepted by IEEE Communications Magazine.
 * Our paper "[FollowSpot: Enhancing Wireless Communications via Movable Ceiling-Mounted Metasurfaces,](/files/Lai_TCOM_2026.pdf)" is accepted by IEEE Transactions on Communications.
 * Our paper "[Blind Passive Beamforming for MIMO System](/files/Lai_WCL_2025.pdf)" is accepted by IEEE Wireless Communications Letters.
 * Our paper "[Intelligent Surface Assisted Radar Stealth Against Unauthorized ISAC](/files/Fan_WCL_2025.pdf)" is accepted by IEEE Wireless Communications Letters.
 * Our paper "[Adaptive Blind Beamforming for Intelligent Surface](/files/Lai_TMC_2024.pdf)" is accepted by IEEE Transactions on Mobile Computing.
-* Our paper "[An Efficient Convex-Hull Relaxation Based Algorithm for Multi-User Discrete Passive Beamforming](/files/Lai_SPL_2024.pdf)" is accepted by IEEE Signal Processing Letters.
